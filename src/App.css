@@ -1,0 +1,7 @@
+/* src/App.css */
+body {
+  background-color: #1c7c54;
+  height: 100vh;  /* Full viewport height */
+  width: 100vw;   /* Full viewport width */
+  margin: 0;      /* Remove default margin */
+}
